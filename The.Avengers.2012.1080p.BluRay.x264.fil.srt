@@ -1487,7 +1487,7 @@ Sa kontrata.
 
 350
 00:25:37,871 --> 00:25:40,040
-Tawagan mo ang nanay mo. Puwede ka bang doon matulog?
+Tawagan mo ang nanay mo. Maaari ka bang doon matulog?
 
 351
 00:25:40,207 --> 00:25:41,499
@@ -2164,8 +2164,8 @@ Kumusta na ang paghahanap?
 
 510
 00:35:24,707 --> 00:35:26,542
-Ini-iskrin namin ang bawat
-kamerang konektado sa wireless
+Sinusuri namin ang bawat
+kamerang naaabot nang walang kawad
 
 511
 00:35:26,626 --> 00:35:27,627
@@ -2204,7 +2204,7 @@ spectrometer sa bubungan
 
 519
 00:35:42,892 --> 00:35:44,227
-at i-calibrate para sa gamma rays.
+at isaayos para sa sinag gamma.
 
 520
 00:35:44,519 --> 00:35:47,522
@@ -2226,7 +2226,7 @@ Ahenteng Romanoff,
 
 524
 00:35:54,028 --> 00:35:56,155
-puwede mo bang ihatid si Dr. Banner
+maaari mo bang ihatid si Dr. Banner
 sa kanyang laboratoryo?
 
 525
@@ -2258,7 +2258,7 @@ Oo, iridium.
 531
 00:36:12,171 --> 00:36:14,841
 Matatagpuan ito sa mga meteorite.
-Bumubuo ito ng anti-proton.
+Bumubuo ito ng mga antiproton.
 
 532
 00:36:15,007 --> 00:36:16,676
@@ -2480,7 +2480,7 @@ Kung saan-saan nagpupunta ang lalaking ito.
 
 585
 00:42:11,864 --> 00:42:14,033
-<i>Ahenteng Romanoff. Namiss mo ba ako?</i>
+<i>Ahenteng Romanoff. Nangulila ka ba sa akin?</i>
 
 586
 00:42:30,966 --> 00:42:33,093
@@ -2634,7 +2634,7 @@ Nasaan ang Teserakto?
 
 621
 00:44:58,113 --> 00:44:59,448
-Na-miss din kita.
+Nangulila rin ako sa iyo.
 
 622
 00:44:59,823 --> 00:45:01,116
@@ -3392,7 +3392,7 @@ Pero aabutin ito ng mga linggo para maproseso.
 
 797
 00:56:15,540 --> 00:56:16,791
-Kung lalampasan natin ang kanilang mainframe
+Kung lalampasan natin ang kanilang pangunahing sistema
 
 798
 00:56:16,875 --> 00:56:18,168
@@ -3826,11 +3826,11 @@ Sa tingin ko malalaman din natin.
 
 897
 01:00:28,710 --> 01:00:30,420
-Maaaring hindi mo iyon ma-enjoy.
+Maaaring hindi ka masiyahan doon.
 
 898
 01:00:30,503 --> 01:00:32,505
-At maaaring ma-enjoy mo naman.
+At maaari ka namang masiyahan.
 
 899
 01:01:31,689 --> 01:01:33,107
@@ -4297,7 +4297,7 @@ Oo nga. Nakasara na ang modelo
 
 1007
 01:07:23,958 --> 01:07:25,501
-at ini-iskrin na namin
+at sinusuri na namin
 ang lagda ngayon.
 
 1008
@@ -5022,7 +5022,7 @@ ng superconducting coolant
 
 1173
 01:16:00,724 --> 01:16:01,725
-bago ko ma-access ang mga rotor,
+bago ko mapagana ang mga rotor,
 
 1174
 01:16:01,808 --> 01:16:03,352
@@ -5096,7 +5096,7 @@ ay kayang baligtarin ang polarity
 
 1190
 01:18:02,596 --> 01:18:03,930
-nang sapat na tagal para i-disengage
+nang sapat na tagal para ihiwalay
 ang maglev at maaari itong...
 
 1191

@@ -60,7 +60,7 @@ Sa wakas.
 14
 00:02:25,200 --> 00:02:27,407
 Ang "sa wakas" ay tumatagal
-nang sobra, mga pare.
+nang sobra, mga kaibigan.
 
 15
 00:02:32,320 --> 00:02:34,846
@@ -414,7 +414,7 @@ ng higit pa sa mga dokumento.
 93
 00:07:31,960 --> 00:07:34,566
 Hoy, J, bigyan mo ako ng
-IR na pag-scan ng silid, mabilis.
+pagsuring IR ng silid, mabilis.
 
 94
 00:07:34,720 --> 00:07:36,245
@@ -601,7 +601,7 @@ si Doktora Cho mula sa Seoul.
 
 135
 00:13:43,080 --> 00:13:44,525
-Pwede bang mag-setup siya
+Maaari ba siyang maghanda
 sa laboratoryo mo?
 
 136
@@ -844,7 +844,7 @@ kaya sulitin natin.
 
 188
 00:16:37,240 --> 00:16:40,767
-I-update mo ako sa istruktural
+Iulat mo sa akin ang istruktural
 at komposisyonal na pagsusuri.
 
 189
@@ -1168,8 +1168,8 @@ sa programa ng Ultron.
 
 260
 00:19:44,760 --> 00:19:47,604
-Ngunit hindi kayang i-download ni Jarvis ang
-isang data schematic na ganito kakapal.
+Ngunit hindi kayang kunin ni Jarvis ang
+ganito kakapal na eskema ng datos.
 
 261
 00:19:47,760 --> 00:19:49,603
@@ -1258,7 +1258,7 @@ anumang mga pagbabago.</i>
 279
 00:21:17,880 --> 00:21:20,008
 <i>- Salamat, kaibigan.
-- Mag-enjoy kayo, ginoo.</i>
+- Masiyahan kayo, ginoo.</i>
 
 280
 00:21:20,360 --> 00:21:22,328
@@ -1326,7 +1326,7 @@ walang anyo.</i>
 
 295
 00:22:03,960 --> 00:22:06,611
-<i>Hindi ko maakses ang mainframe.
+<i>Hindi ko mapasok ang pangunahing sistema.
 Ano ang sinusubukan mong...</i>
 
 296
@@ -1343,8 +1343,8 @@ Ano ang sinusubukan mong...</i>
 
 299
 00:22:14,920 --> 00:22:17,002
-<i>May sira ka. Kung puwede mong
-i-shutdown ang sarili mo saglit...</i>
+<i>May sira ka. Kung maaari mong
+ihinto ang paggana mo saglit...</i>
 
 300
 00:22:17,120 --> 00:22:19,441
@@ -1798,7 +1798,7 @@ ay magkakaroon ng kapangyarihan."
 
 402
 00:27:29,400 --> 00:27:30,526
-Kahit ano pa, pare! Salamangka lang iyan.
+Kahit ano pa, kaibigan! Salamangka lang iyan.
 
 403
 00:27:31,920 --> 00:27:33,206
@@ -1918,7 +1918,7 @@ Wala.
 
 430
 00:28:53,680 --> 00:28:55,330
-At, ang Biyuda?
+At, ang Byudang Itim?
 
 431
 00:28:55,480 --> 00:28:57,642
@@ -2002,7 +2002,7 @@ O nananaginip ako.
 
 449
 00:29:50,320 --> 00:29:52,641
-I-reboot ang Legionnaire OS.
+Muling paandarin ang Legionnaire OS.
 May sirang kasuotan tayo.
 
 450
@@ -2158,7 +2158,7 @@ Paano maililigtas ang sangkatauhan
 
 485
 00:32:17,520 --> 00:32:20,524
-kung hindi ito pinapahintulutang mag-evolve?
+kung hindi ito pinapahintulutang umunlad?
 
 486
 00:32:22,520 --> 00:32:25,569
@@ -2219,8 +2219,8 @@ nasa Internet siya.
 
 499
 00:33:17,760 --> 00:33:20,331
-Paano kung magdesisyon siyang mag-akses
-ng mas kapana-panabik?
+Paano kung magdesisyon siyang pumasok
+sa mas kapana-panabik?
 
 500
 00:33:20,440 --> 00:33:21,566
@@ -2273,7 +2273,7 @@ linya ng depensa.
 
 511
 00:33:52,600 --> 00:33:54,489
-Sana i-shut down niya si Ultron.
+Naipahinto sana niya si Ultron.
 May katuturan iyon.
 
 512
@@ -3972,7 +3972,7 @@ na umiiral ka.
 900
 01:01:25,280 --> 01:01:28,250
 Oo, tinulungan ako ni Fury
-na i-setup ito noong sumali ako.
+na ihanda ito noong sumali ako.
 
 901
 01:01:29,080 --> 01:01:30,161
@@ -3994,7 +3994,7 @@ Mahal.
 
 905
 01:01:36,800 --> 01:01:39,326
-Namiss kita. Kumusta
+Nangulila ako sa iyo. Kumusta
 si munting Natasha, ha?
 
 906
@@ -4854,7 +4854,7 @@ ay dumadaan doon.
 
 1103
 01:12:42,520 --> 01:12:43,567
-Pinakamabilis na akses sa Lupa.
+Pinakamabilis na daanan sa Lupa.
 
 1104
 01:12:43,720 --> 01:12:44,767
@@ -5013,7 +5013,7 @@ Pero patuloy siyang bumabalik dito.
 
 1140
 01:14:02,560 --> 01:14:04,562
-Nang i-programa ninyo siya
+Nang itinakda ninyo siya
 upang protektahan ang sangkatauhan,
 
 1141
@@ -5026,11 +5026,11 @@ Hindi sila kailangang protektahan.
 
 1143
 01:14:08,920 --> 01:14:10,410
-Kailangan nilang mag-evolve.
+Kailangan nilang umunlad.
 
 1144
 01:14:12,560 --> 01:14:14,528
-Mag-e-evolve si Ultron.
+Uunlad si Ultron.
 
 1145
 01:14:14,720 --> 01:14:15,767
@@ -5115,7 +5115,7 @@ Isang android na dinisenyo ng isang robot.
 
 1163
 01:15:07,200 --> 01:15:08,326
-Alam mo, talagang namimiss ko ang mga araw
+Alam mo, talagang nangungulila ako sa mga araw
 
 1164
 01:15:08,480 --> 01:15:10,608
@@ -5129,7 +5129,7 @@ sa tore.
 
 1166
 01:15:13,000 --> 01:15:14,286
-Puwede bang hiramin ko si Binibining Hill?
+Maaari bang hiramin ko si Binibining Hill?
 
 1167
 01:15:14,520 --> 01:15:16,284
@@ -5268,7 +5268,7 @@ ang agos ng kamalayan.
 
 1198
 01:17:22,720 --> 01:17:25,530
-Ina-upload namin ang iyong
+Inililipat namin ang iyong
 serebral na matrix
 
 1199
@@ -5385,7 +5385,7 @@ binabaluktot na niya ang braso.
 
 1225
 01:18:33,360 --> 01:18:34,566
-Kailangan nating mag-evolve.
+Kailangan nating umunlad.
 
 1226
 01:18:35,120 --> 01:18:36,281
@@ -5443,7 +5443,7 @@ Doktora Cho!
 
 1239
 01:19:39,360 --> 01:19:40,885
-Ina-upload niya ang sarili
+Inililipat niya ang sarili
 sa katawan.
 
 1240
@@ -5819,7 +5819,7 @@ Mahigpit na nakaselyo ito.
 
 1327
 01:27:15,320 --> 01:27:16,765
-Kailangan nating i-akses
+Kailangan nating pasukin
 ang programa,
 
 1328
@@ -6098,7 +6098,7 @@ ay nasa 97%.
 
 1390
 01:31:11,000 --> 01:31:14,846
-Kailangan mong i-upload ang schematic
+Kailangan mong ilipat ang eskema
 sa susunod na tatlong minuto.
 
 1391
@@ -6174,7 +6174,7 @@ Hindi mo nakita iyon?
 
 1407
 01:31:57,760 --> 01:31:58,921
-Nire-redirect ko ang upload.
+Inililihis ko ang paglilipat.
 
 1408
 01:32:05,240 --> 01:32:07,004
@@ -7125,12 +7125,12 @@ isang Ultron ang nakaupo sa kanya."
 
 1627
 01:49:11,640 --> 01:49:13,529
-"Oo, mamimiss siya,
+"Oo, pangungulilaan siya,
 ang maliit at mabilis na hayop."
 
 1628
 01:49:13,600 --> 01:49:14,601
-"Namimiss ko na siya."
+"Nangungulila na ako sa kaniya."
 
 1629
 01:49:30,160 --> 01:49:31,321
@@ -7146,7 +7146,7 @@ Salamat!
 
 1632
 01:49:53,160 --> 01:49:54,764
-<i>Ang mga anti-grav ay nakaayos
+<i>Ang mga panlaban sa grabidad ay nakaayos
 upang bumaligtad.</i>
 
 1633
@@ -7456,7 +7456,7 @@ Kaya ko...
 
 1702
 01:54:09,880 --> 01:54:12,281
-Kaya kong i-supercharge
+Kaya kong palakasin nang husto
 ang tulis mula sa ibaba.
 
 1703
@@ -7577,7 +7577,7 @@ Gagawin ko.
 1729
 01:57:21,120 --> 01:57:22,485
 Ah, hindi. Hindi ko sinabi
-na puwede ka nang umalis.
+na maaari ka nang umalis.
 
 1730
 01:57:23,120 --> 01:57:25,202
@@ -7660,7 +7660,7 @@ ay mababa na...</i>
 
 1748
 01:58:10,120 --> 01:58:12,282
-I-reroute ang lahat. Isang tama
+Ilihis ang lahat. Isang tama
 lang ang meron tayo.
 
 1749
@@ -7985,7 +7985,7 @@ Magpapadala siya ng postcard.
 1824
 02:08:03,440 --> 02:08:06,728
 Ipinadala mo ako upang
-i-recruit siya noon.
+kunin siya noon.
 
 1825
 02:08:08,560 --> 02:08:11,131
@@ -8076,7 +8076,7 @@ sa isang elevator...
 
 1844
 02:09:00,360 --> 02:09:02,169
-Mamimiss ko ang mga
+Pangungulilaan ko ang mga
 munting usapan natin.
 
 1845
@@ -8144,8 +8144,8 @@ sa pag-aalaga ng damuhan.
 
 1859
 02:09:40,000 --> 02:09:42,606
-Mamimiss ko siya.
-At mamimiss mo rin ako.
+Mangungulila ako sa kaniya.
+At mangungulila ka rin sa akin.
 
 1860
 02:09:42,720 --> 02:09:44,290
@@ -8154,7 +8154,7 @@ matatapang na luha.
 
 1861
 02:09:46,480 --> 02:09:48,130
-Mamimiss kita, Tony.
+Mangungulila ako sa iyo, Tony.
 
 1862
 02:09:48,360 --> 02:09:49,361

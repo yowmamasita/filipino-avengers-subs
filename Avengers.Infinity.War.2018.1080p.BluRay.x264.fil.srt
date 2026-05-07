@@ -440,7 +440,7 @@ Nalilito ako.
 
 103
 00:11:32,400 --> 00:11:33,586
-Alam mo 'yung nanaginip ka,
+Alam mo ba kapag nananaginip ka,
 
 104
 00:11:33,610 --> 00:11:34,726
@@ -653,7 +653,7 @@ Tony Stark.
 
 149
 00:12:51,980 --> 00:12:54,973
-Ako si Doktor Stephen Strange.
+Ako si Doktor Kataka-taka.
 Kailangan kitang samahan.
 
 150
@@ -851,7 +851,7 @@ sa basurahan?
 
 194
 00:14:49,222 --> 00:14:50,212
-Hindi puwede.
+Hindi maaari.
 
 195
 00:14:50,390 --> 00:14:53,098
@@ -1039,7 +1039,7 @@ Parang... Parang Beatles?
 
 236
 00:16:14,056 --> 00:16:15,968
-Nag-away kami ni Cap nang husto.
+Nag-away kami ni Kap nang husto.
 
 237
 00:16:16,976 --> 00:16:18,137
@@ -1289,7 +1289,7 @@ Iyan ang problema. Tara na.
 
 293
 00:20:43,951 --> 00:20:45,112
-Pare, pinahihiya mo ako
+Kaibigan, pinahihiya mo ako
 sa harap ng mga mangkukulam.
 
 294
@@ -1387,7 +1387,7 @@ Anong ibig mong sabihin, "ayoko"?
 
 315
 00:22:29,682 --> 00:22:31,298
-Hoy, pare.
+Hoy, kaibigan.
 Kamusta, Ginoong Stark?
 
 316
@@ -1865,7 +1865,7 @@ Bibili ako ng mga pang-angat.
 424
 00:30:16,606 --> 00:30:17,938
 Alam mong hindi mo
-makakain ang mga pang-angat, diba?
+makakain ang mga pang-angat, hindi ba?
 
 425
 00:30:18,108 --> 00:30:19,377
@@ -2528,7 +2528,7 @@ oras bago ka bumalik.
 
 571
 00:36:46,162 --> 00:36:47,619
-Paano kung ma-miss ko ang tren na iyon?
+Paano kung maiwan ako ng tren na iyon?
 
 572
 00:36:47,789 --> 00:36:48,779
@@ -2536,7 +2536,7 @@ May alas-onse.
 
 573
 00:36:48,957 --> 00:36:51,370
-Paano kung ma-miss ko lahat ng tren?
+Paano kung maiwan ako ng lahat ng tren?
 
 574
 00:36:52,752 --> 00:36:54,459
@@ -2576,7 +2576,7 @@ ninakaw natin ang mga sandaling ito...
 582
 00:37:07,684 --> 00:37:09,721
 sinusubukan kung
-puwede tayong magtagumpay at...
+maaari tayong magtagumpay at...
 
 583
 00:37:09,894 --> 00:37:11,476
@@ -2754,7 +2754,7 @@ Gusto lang namin ng panahon.
 
 623
 00:42:17,285 --> 00:42:18,526
-Saan tayo, Cap?
+Saan tayo, Kap?
 
 624
 00:42:21,372 --> 00:42:22,863
@@ -3005,7 +3005,7 @@ Sige.
 682
 00:46:28,536 --> 00:46:29,638
 Ah.
-Pare.
+Kaibigan.
 
 683
 00:46:29,662 --> 00:46:31,265
@@ -3430,7 +3430,7 @@ kriminal lang dahil
 782
 00:54:23,343 --> 00:54:24,834
 pinili ninyong tawagin
-silang ganoon, diba, ginoo?
+silang ganoon, hindi ba, ginoo?
 
 783
 00:54:25,012 --> 00:54:26,128
@@ -3538,7 +3538,7 @@ Ilalabas ka sa hukbo niyan.
 
 807
 00:55:42,339 --> 00:55:43,329
-Ang ganda mong makita, Cap.
+Ang ganda mong makita, Kap.
 
 808
 00:55:44,466 --> 00:55:46,277
@@ -4042,7 +4042,7 @@ Sige, sige... Ah...
 920
 01:01:35,358 --> 01:01:38,629
 Sige. Napanood mo na ba
-'yung talagang lumang pelikulang <i>Aliens?</i>
+ang talagang lumang pelikulang <i>Aliens?</i>
 
 921
 01:01:42,282 --> 01:01:44,365
@@ -4197,7 +4197,7 @@ Hindi.
 954
 01:03:27,554 --> 01:03:29,420
 Ako si Peter, nga pala.
-Doktor Strange.
+Doktor Kataka-taka.
 
 955
 01:03:29,597 --> 01:03:31,304
@@ -5023,7 +5023,7 @@ sa loob ng mga siglo.
 
 1144
 01:15:14,176 --> 01:15:16,793
-Sinabi mong may guwantes
+Sinabi mong may Walang Hanggang Baluti
 si Thanos, tama?
 
 1145
@@ -5077,7 +5077,7 @@ Wasak na ang Asgard.
 
 1157
 01:15:53,466 --> 01:15:57,301
-Eitri, ang guwantes.
+Eitri, ang Walang Hanggang Baluti.
 Ano ang ginawa mo?
 
 1158
@@ -5215,7 +5215,7 @@ Utang ko sa iyo.
 1188
 01:18:57,399 --> 01:18:59,544
 Hayaan mong sabihin ko,
-kung mag-iimplant ng itlog
+kung magtatanim ng itlog
 
 1189
 01:18:59,568 --> 01:19:01,309
@@ -5247,7 +5247,7 @@ Thanos!
 1195
 01:19:37,648 --> 01:19:39,709
 Teka, teka, teka! Pakiusap huwag kayong
-mag-iimplant ng itlog sa akin!
+magtanim ng itlog sa akin!
 
 1196
 01:19:41,151 --> 01:19:43,609
@@ -5379,7 +5379,7 @@ Teka, sino kayo?
 
 1225
 01:20:53,390 --> 01:20:55,160
-Mga Tagapaghiganti kami, pare.
+Mga Tagapaghiganti kami, kaibigan.
 Ah.
 
 1226
@@ -5445,7 +5445,7 @@ Paano natin gagawin?
 
 1240
 01:21:41,897 --> 01:21:44,105
-Kailangang i-restart mo
+Kailangang muli mong paandarin
 ang pandayan.
 
 1241
@@ -5501,7 +5501,7 @@ sumayaw sa taong ito.
 
 1252
 01:22:16,265 --> 01:22:17,301
-Gusto lang natin ang guwantes.
+Gusto lang natin ang Walang Hanggang Baluti.
 
 1253
 01:22:17,891 --> 01:22:20,328
@@ -5570,7 +5570,7 @@ disposisyon lang ang dalhin natin...
 
 1267
 01:22:54,511 --> 01:22:56,798
-Pare, huwag mo kaming tawaging masigla.
+Kaibigan, huwag mo kaming tawaging masigla.
 
 1268
 01:22:56,972 --> 01:22:58,133
@@ -5664,7 +5664,7 @@ ng kaibigan ninyo?
 
 1288
 01:23:36,470 --> 01:23:38,757
-Strange, ayos ka lang ba?
+Kataka-taka, ayos ka lang ba?
 
 1289
 01:23:49,066 --> 01:23:50,168
@@ -6054,7 +6054,7 @@ bawat neuron nang hindi magkasunod.
 
 1379
 01:32:53,943 --> 01:32:55,838
-Bakit hindi ninyo na lang ni-reprogram
+Bakit hindi ninyo na lang muling itinakda
 
 1380
 01:32:55,862 --> 01:32:57,979
@@ -6101,7 +6101,7 @@ May pumasok sa kapaligiran.
 
 1390
 01:33:42,200 --> 01:33:44,487
-Hoy, Cap, may sitwasyon
+Hoy, Kap, may sitwasyon
 tayo rito.
 
 1391
@@ -6111,7 +6111,7 @@ Diyos ko, mahal ko ang lugar na ito.
 1392
 01:33:56,005 --> 01:33:57,691
 <i>Oo,
-huwag muna kayong magdiwang, mga pare.</i>
+huwag muna kayong magdiwang, mga kaibigan.</i>
 
 1393
 01:33:57,715 --> 01:33:59,627
@@ -6151,7 +6151,7 @@ Gagawin ko.
 1401
 01:34:32,375 --> 01:34:35,163
 Ilikas ang lungsod.
-I-engage ang lahat ng depensa.
+Paganahin ang lahat ng depensa.
 
 1402
 01:34:35,920 --> 01:34:37,377
@@ -6186,7 +6186,7 @@ Ipaubaya mo sa akin.
 
 1409
 01:34:57,775 --> 01:35:00,963
-Pare, nasa kalawakan ka.
+Kaibigan, nasa kalawakan ka.
 Ang meron ka lang ay lubid at isang...
 
 1410
@@ -6259,7 +6259,7 @@ nasasanay na ako.
 
 1426
 01:37:01,941 --> 01:37:04,086
-Naku! Kahanga-hanga ito, pare.
+Naku! Kahanga-hanga ito, kaibigan.
 
 1427
 01:37:04,110 --> 01:37:06,088
@@ -6351,7 +6351,7 @@ Masusunog ang pakpak mo.
 
 1448
 01:40:22,308 --> 01:40:23,785
-<i>Cap, kung umikot ang mga ito
+<i>Kap, kung umikot ang mga ito
 sa paligid</i>
 
 1449
@@ -6897,7 +6897,7 @@ Nasa larangan na siya. Kunin mo.
 
 1574
 01:55:37,180 --> 01:55:39,367
-Mga pare, may sitwasyon
+Mga kaibigan, may sitwasyon
 tayo kay Vision dito.
 
 1575
@@ -6937,7 +6937,7 @@ ang Hulk.
 
 1583
 01:56:32,611 --> 01:56:35,319
-<i>Mga pare!
+<i>Mga kaibigan!
 Kailangan ni Vision ng tulong, ngayon!</i>
 
 1584
@@ -6951,7 +6951,7 @@ sa huling segundo.
 
 1586
 01:56:41,077 --> 01:56:43,694
-Ito na, pare.
+Ito na, kaibigan.
 Ito na ang huling-huling segundo.
 
 1587
@@ -7149,7 +7149,7 @@ Ano ba 'yan?
 
 1633
 02:05:15,383 --> 02:05:16,373
-Cap.
+Kap.
 
 1634
 02:05:17,135 --> 02:05:18,592

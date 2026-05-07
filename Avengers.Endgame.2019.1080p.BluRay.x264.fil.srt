@@ -252,11 +252,11 @@ Oy, Ginoong Potts. Pep.
 
 60
 00:03:44,391 --> 00:03:47,099
-Kung makita mo ang recording na ito...
+Kung makita mo ang naitalang mensaheng ito...
 
 61
 00:03:47,269 --> 00:03:50,012
-huwag mo itong i-post sa social media.
+huwag mo itong ilathala sa panlipunang midya.
 
 62
 00:03:50,105 --> 00:03:51,812
@@ -478,7 +478,7 @@ gumagana pa...
 
 110
 00:09:47,128 --> 00:09:50,621
-...ay sinusubukang mag-sensus
+...ay sinusubukang magbilang ng populasyon
 at mukhang ginawa niya talaga...
 
 111
@@ -550,7 +550,7 @@ hinahanap si Thanos.
 
 126
 00:10:32,173 --> 00:10:34,165
-Mga pag-scan sa kalawakan...
+Mga pagsusuri sa kalawakan...
 
 127
 00:10:34,425 --> 00:10:36,382
@@ -702,7 +702,7 @@ At wala ka roon.
 
 160
 00:11:38,781 --> 00:11:39,942
-Pero iyon naman ang ginagawa natin, di ba?
+Pero iyon naman ang ginagawa natin, hindi ba?
 
 161
 00:11:40,116 --> 00:11:42,950
@@ -1230,7 +1230,7 @@ Ang trabaho ko, ang trabaho niya.
 
 278
 00:20:52,835 --> 00:20:54,701
-Kung gaano namin namimiss ang Mets.
+Kung gaano kami nangungulila sa Mets.
 
 279
 00:20:57,131 --> 00:20:58,667
@@ -1943,7 +1943,7 @@ Ang tanging problema ngayon
 441
 00:32:08,176 --> 00:32:09,587
 wala tayong paraan
-para mag-navigate rito.
+para tahakin ito.
 
 442
 00:32:09,678 --> 00:32:10,678
@@ -1961,7 +1961,7 @@ kontrolin ang kaguluhan...
 
 445
 00:32:14,808 --> 00:32:16,015
-at ma-navigate natin ito?
+at matahak natin ito?
 
 446
 00:32:16,101 --> 00:32:17,683
@@ -2091,7 +2091,7 @@ Iniisip mo ba ang tanghalian?
 
 474
 00:33:37,557 --> 00:33:39,619
-Puwede kitang bigyan ng isang dakot
+Maaari kitang bigyan ng isang dakot
 ng kuliglig sa higaan ng lettuce.
 
 475
@@ -2216,13 +2216,13 @@ Ang mga bato ay nasa nakaraan.
 
 501
 00:34:53,592 --> 00:34:54,992
-Puwede tayong bumalik,
-puwede nating kunin sila.
+Maaari tayong bumalik,
+maaari nating kunin sila.
 
 502
 00:34:55,093 --> 00:34:57,380
-Puwede tayong dinikit ng sarili nating mga daliri.
-Puwede nating ibalik ang lahat.
+Maaari nating ipitik ang sarili nating mga daliri.
+Maaari nating ibalik ang lahat.
 
 503
 00:34:57,554 --> 00:34:59,466
@@ -2236,7 +2236,7 @@ Hindi ko pinaniniwalaan iyon.
 505
 00:35:01,224 --> 00:35:03,762
 Kailangang sabihin ko. Minsan ko pa ring
-nami-miss ang masayang pag-asa na iyan.
+hinahanap-hanap ang masayang pag-asa na iyan.
 
 506
 00:35:04,644 --> 00:35:06,351
@@ -2419,7 +2419,7 @@ Hindi ko puwedeng ipagsapalaran.
 545
 00:36:35,151 --> 00:36:37,063
 Kung hindi kayo mag-uusap ng trabaho,
-puwede kayong manatili para sa tanghalian.
+maaari kayong manatili para sa tanghalian.
 
 546
 00:36:40,323 --> 00:36:41,530
@@ -2568,7 +2568,7 @@ Pinakamahusay ng dalawang mundo.
 
 579
 00:37:50,685 --> 00:37:52,017
-Puwede po bang magpa-litrato?
+Maaari po bang magpa-litrato?
 
 580
 00:37:52,437 --> 00:37:54,429
@@ -2577,7 +2577,7 @@ Sandaang porsyento, munting kaibigan.
 581
 00:37:54,606 --> 00:37:56,643
 Sige, lumapit kayo.
-Puwede ba?
+Maaari ba?
 
 582
 00:37:57,358 --> 00:37:59,099
@@ -3024,7 +3024,7 @@ Hindi kung titigil ako.
 
 683
 00:42:44,854 --> 00:42:47,722
-Puwede ko itong i-pin
+Maaari ko itong ipagpaliban
 ngayon mismo at tumigil.
 
 684
@@ -3110,7 +3110,7 @@ Masamang biro.
 
 702
 00:43:47,166 --> 00:43:48,166
-Nagbibiro ka lang, di ba?
+Nagbibiro ka lang, hindi ba?
 
 703
 00:43:48,292 --> 00:43:51,410
@@ -3209,7 +3209,7 @@ Oo, si Scott iyan.
 
 724
 00:44:38,301 --> 00:44:39,361
-Puwede bang
+Maaari bang
 bigyan niyo ako ng espasyo?
 
 725
@@ -3410,8 +3410,8 @@ Salamat, Tony.
 
 770
 00:47:43,944 --> 00:47:45,480
-Puwede mo bang huminang
-sa boses na iyan?
+Maaari mo bang hinaan
+ang boses na iyan?
 
 771
 00:47:46,197 --> 00:47:47,597
@@ -3614,7 +3614,7 @@ Nasa balde ang serbesa.
 815
 00:50:57,429 --> 00:50:58,709
 Huwag kayong mahiyang
-mag-connect sa Wi-Fi.
+gamitin ang ugnayang walang kawad.
 
 816
 00:50:58,764 --> 00:51:00,471
@@ -3626,7 +3626,7 @@ Thor, bumalik siya.
 
 818
 00:51:03,227 --> 00:51:05,890
-Yung batang iyon sa telebisyon
+Ang batang iyon sa telebisyon
 tinawag na naman akong baliw.
 
 819
@@ -3653,7 +3653,7 @@ Alam mo, ang Diyos ng Kulog.
 
 824
 00:51:15,447 --> 00:51:17,728
-Makinig ka, kaibigan, kung hindi ka mag-log out
+Makinig ka, kaibigan, kung hindi ka lalabas
 sa larong ito kaagad...
 
 825
@@ -4086,7 +4086,7 @@ Huwag kang mag-alala tungkol doon.
 922
 00:58:42,811 --> 00:58:44,080
 Sandali lang.
-Puwede ba kitang tanungin.
+Maaari ba kitang tanungin.
 
 923
 00:58:44,104 --> 00:58:45,720
@@ -4839,7 +4839,7 @@ nang sobrang maaga.
 
 1090
 01:08:46,706 --> 01:08:48,823
-Si Stephen Strange ay
+Si Stephen Kataka-taka ay
 kasalukuyang nag-oopera
 
 1091
@@ -5038,7 +5038,7 @@ nagkaroon ako kailanman.
 1134
 01:10:54,000 --> 01:10:56,413
 Si Quill, Groot, Drax,
-yung babaeng may antenna...
+ang babaeng may antenna...
 
 1135
 01:10:56,586 --> 01:10:57,997
@@ -5046,7 +5046,7 @@ lahat wala na.
 
 1136
 01:10:58,713 --> 01:11:00,045
-Naiintindihan ko na miss mo ang mama mo...
+Naiintindihan ko na nangungulila ka sa mama mo...
 
 1137
 01:11:00,339 --> 01:11:01,546
@@ -5165,7 +5165,7 @@ Pababa, pababa.
 
 1164
 01:12:13,120 --> 01:12:14,656
-Oy, puwede bang bilisan natin?
+Oy, maaari bang bilisan natin?
 
 1165
 01:12:14,831 --> 01:12:16,914
@@ -5445,7 +5445,7 @@ patayuin ninyo siya.
 
 1227
 01:16:26,165 --> 01:16:29,158
-Puwede tayong tumayo at mag-pose
+Maaari tayong tumayo at magpakuha ng larawan
 mamaya na lang.
 
 1228
@@ -5492,8 +5492,8 @@ ang paparating para kunin iyon.
 
 1238
 01:16:56,487 --> 01:16:58,228
-Puwede namin iyan
-kunin mula sa inyo.
+Maaari naming kunin iyan
+mula sa inyo.
 
 1239
 01:16:58,405 --> 01:16:59,405
@@ -5546,8 +5546,8 @@ pero malakas ang boses mo.
 
 1250
 01:17:18,968 --> 01:17:22,928
-Bababa na ako para mag-coordinate
-ng paghahanap at pagsagip.
+Bababa na ako para makipag-ugnayan
+sa paghahanap at pagsagip.
 
 1251
 01:17:23,097 --> 01:17:25,555
@@ -5645,7 +5645,7 @@ Kapitan.
 1272
 01:18:27,494 --> 01:18:28,680
 Akala ko
-nag-co-coordinate ka
+nakikipag-ugnayan ka
 
 1273
 01:18:28,704 --> 01:18:29,704
@@ -5732,7 +5732,7 @@ para sa mga emerhensya. Kalma lang.
 
 1292
 01:19:56,292 --> 01:19:57,373
-Puwede bang tumutok tayo?
+Maaari bang tumutok tayo?
 
 1293
 01:19:57,543 --> 01:19:58,784
@@ -5744,7 +5744,7 @@ Puwede bang tumutok tayo?
 
 1295
 01:20:06,385 --> 01:20:07,921
-Ah, puwede ko bang itanong
+Ah, maaari ko bang itanong
 kung saan ka pupunta?
 
 1296
@@ -5943,7 +5943,7 @@ Gumana iyon nang husto.
 
 1339
 01:21:39,561 --> 01:21:40,561
-Pare, nakakaloko iyon.
+Kaibigan, nakakaloko iyon.
 
 1340
 01:21:40,729 --> 01:21:42,169
@@ -6128,7 +6128,7 @@ sa mga bato...
 
 1382
 01:24:32,317 --> 01:24:34,479
-puwede naming ibalik ang bawat isa
+maaari naming ibalik ang bawat isa
 sa sarili nitong linya ng panahon...
 
 1383
@@ -6579,7 +6579,7 @@ sa pagiging kung sino talaga siya.
 
 1485
 01:31:00,163 --> 01:31:01,620
-Talagang namiss kita, Inay.
+Talagang nangulila ako sa iyo, Inay.
 
 1486
 01:31:07,504 --> 01:31:09,245
@@ -8313,7 +8313,7 @@ Bam!
 
 1881
 01:57:57,862 --> 01:57:59,319
-Sige, handa na ang guwantes.
+Sige, handa na ang Walang Hanggang Baluti.
 
 1882
 01:58:00,115 --> 01:58:02,698
@@ -8407,7 +8407,7 @@ sa katotohanan...
 
 1901
 01:58:37,152 --> 01:58:38,337
-na ang guwantes na iyon
+na ang Walang Hanggang Baluti na iyon
 ay nagdadala ng sapat na enerhiya
 
 1902
@@ -8517,7 +8517,7 @@ Naintindihan.
 
 1926
 02:00:09,327 --> 02:00:10,927
-<i>i-activate ang Protokol
+<i>paganahin ang Protokol
 ng Pintuan ng Kamalig, ha?</i>
 
 1927
@@ -9292,7 +9292,7 @@ Patay na ito.
 
 2108
 02:22:30,792 --> 02:22:32,203
-Kailangan kong i-hot-wire ito.
+Kailangan kong paandarin ito sa tuwirang kable.
 
 2109
 02:22:35,297 --> 02:22:36,504
@@ -9332,7 +9332,7 @@ Nakuha ko na!
 
 2118
 02:23:50,956 --> 02:23:52,037
-I-activate ang Agarang Pagpatay.
+Paganahin ang Agarang Pagpatay.
 
 2119
 02:24:15,480 --> 02:24:16,812
@@ -9613,7 +9613,7 @@ siya ay lumalaki.</i>
 
 2183
 02:36:26,127 --> 02:36:27,271
-<i>mag-record ng kaunting
+<i>magtala ng kaunting
 pagbati...</i>
 
 2184
@@ -10007,7 +10007,7 @@ Alam mo, sinubukan ko.
 
 2274
 02:43:20,040 --> 02:43:22,032
-Noong hawak ko ang guwantes,
+Noong hawak ko ang Walang Hanggang Baluti,
 ang mga bato,
 
 2275
@@ -10017,7 +10017,7 @@ ibalik siya.
 
 2276
 02:43:27,548 --> 02:43:29,164
-Namimiss ko siya.
+Nangungulila ako sa kaniya.
 
 2277
 02:43:29,550 --> 02:43:30,550
@@ -10026,7 +10026,7 @@ Ako rin.
 2278
 02:43:34,638 --> 02:43:37,051
 Alam mo, kung gusto mo,
-puwede kitang samahan.
+maaari kitang samahan.
 
 2279
 02:43:39,643 --> 02:43:41,100
@@ -10052,7 +10052,7 @@ ang lahat ng katangahan kasama mo.
 
 2284
 02:44:02,207 --> 02:44:03,994
-Mamimiss kita, kasama.
+Mangungulila ako sa iyo, kasama.
 
 2285
 02:44:04,376 --> 02:44:05,867
